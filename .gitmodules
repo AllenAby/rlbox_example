@@ -1,0 +1,12 @@
+[submodule "myapp"]
+	path = myapp
+	url = https://github.com/AllenAby/myapp.git
+[submodule "rlbox_wasm2c_sandbox"]
+	path = rlbox_wasm2c_sandbox
+	url = https://github.com/AllenAby/rlbox_wasm2c_sandbox.git
+[submodule "rlbox"]
+	path = rlbox
+	url = https://github.com/PLSysSec/rlbox.git
+[submodule "rlbox-book"]
+	path = rlbox-book
+	url = https://github.com/PLSysSec/rlbox-book.git
