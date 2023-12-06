@@ -20,8 +20,6 @@ Running Rust code in RLBox
 
 `cmake --build ./build --target all`
 
-`make`
-
 ## Running myapp
 `make`
 
